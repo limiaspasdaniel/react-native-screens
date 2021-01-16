@@ -195,7 +195,7 @@
 
   if (screenRemoved || screenAdded) {
     // we disable interaction for the duration of the transition until one of the screens changes its state to "onTop"
-    self.userInteractionEnabled = NO;
+    self.userInteractionEnabled = YES;
   }
 
   for (RNSScreenView *screen in _reactSubviews) {
