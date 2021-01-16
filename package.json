@@ -1,6 +1,6 @@
 {
   "name": "@limiaspasdaniel/react-native-screens",
-  "version": "2.16.3",
+  "version": "2.16.4",
   "description": "Native navigation primitives for your React Native app.",
   "scripts": {
     "check-types": "tsc --noEmit",
