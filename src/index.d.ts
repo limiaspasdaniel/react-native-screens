@@ -1,7 +1,7 @@
 // Project: https://github.com/kmagiera/react-native-screens
 // TypeScript Version: 2.8
 
-declare module 'react-native-screens' {
+declare module '@limiaspasdaniel/react-native-screens' {
   import { ComponentClass } from 'react';
   import {
     Animated,

@@ -6,7 +6,7 @@ module.exports = {
       'module-resolver',
       {
         alias: {
-          'react-native-screens': '../src',
+          '@limiaspasdaniel/react-native-screens': '../src',
           'react': './node_modules/react',
           'react-native': './node_modules/react-native',
           '@babel': './node_modules/@babel',

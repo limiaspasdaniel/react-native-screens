@@ -13,7 +13,7 @@ import {
   ScreenProps,
   ScreenStack,
   StackPresentationTypes,
-} from 'react-native-screens';
+} from '@limiaspasdaniel/react-native-screens';
 import {
   NativeStackDescriptorMap,
   NativeStackNavigationHelpers,

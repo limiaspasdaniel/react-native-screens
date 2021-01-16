@@ -8,7 +8,7 @@ import {
   TouchableOpacity,
 } from 'react-native';
 
-import {createNativeStackNavigator} from 'react-native-screens/native-stack';
+import {createNativeStackNavigator} from '@limiaspasdaniel/react-native-screens/native-stack';
 import {NavigationContainer} from '@react-navigation/native';
 
 function wait(timeout) {

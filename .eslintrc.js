@@ -16,7 +16,7 @@ module.exports = {
   },
 
   settings: {
-    'import/core-modules': ['react-native-screens', 'react-native-screens/native-stack'],
+    'import/core-modules': ['@limiaspasdaniel/react-native-screens', '@limiaspasdaniel/react-native-screens/native-stack'],
     'import/ignore': ['node_modules/react-native/index\\.js$'],
     'import/resolver': {
       node: {

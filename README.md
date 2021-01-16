@@ -55,7 +55,7 @@ expo install react-native-screens
 2.  Enable screens support before any of your navigation screens renders. Add the following code to your main application file (e.g. App.js):
 
 ```js
-import { enableScreens } from 'react-native-screens';
+import { enableScreens } from @limiaspasdaniel/react-native-screens';
 
 enableScreens();
 ```

@@ -10,7 +10,7 @@ import {
   useNavigationBuilder,
 } from '@react-navigation/native';
 import * as React from 'react';
-import { screensEnabled } from 'react-native-screens';
+import { screensEnabled } from '@limiaspasdaniel/react-native-screens';
 import {
   NativeStackNavigationEventMap,
   NativeStackNavigationOptions,

@@ -1,6 +1,6 @@
 /* eslint-disable no-unused-vars */
 import React from 'react';
-import {enableScreens} from 'react-native-screens';
+import {enableScreens} from '@limiaspasdaniel/react-native-screens';
 
 import Test42 from './src/Test42';
 import Test111 from './src/Test111';

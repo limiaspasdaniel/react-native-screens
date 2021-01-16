@@ -8,7 +8,7 @@ import {
   ScreenStackHeaderConfig,
   ScreenStackHeaderLeftView,
   ScreenStackHeaderRightView,
-} from 'react-native-screens';
+} from '@limiaspasdaniel/react-native-screens';
 import {
   createNavigator,
   SceneView,

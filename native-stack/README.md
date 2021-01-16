@@ -13,7 +13,7 @@ npm install react-native-screens @react-navigation/native
 Make sure to enable `react-native-screens`. This needs to be done before our app renders. To do it, add the following code in your entry file (e.g. `App.js`):
 
 ```js
-import { enableScreens } from 'react-native-screens';
+import { enableScreens } from @limiaspasdaniel/react-native-screens';
 
 enableScreens();
 ```
@@ -23,7 +23,7 @@ enableScreens();
 To use this navigator, import it from `react-native-screens/native-stack`:
 
 ```js
-import { createNativeStackNavigator } from 'react-native-screens/native-stack';
+import { createNativeStackNavigator } from @limiaspasdaniel/react-native-screens/native-stack';
 
 const Stack = createNativeStackNavigator();
 
@@ -398,7 +398,7 @@ You can also see an example of using these values with a `ScrollView` here: http
 ## Example
 
 ```js
-import { createNativeStackNavigator } from 'react-native-screens/native-stack';
+import { createNativeStackNavigator } from @limiaspasdaniel/react-native-screens/native-stack';
 
 const Stack = createNativeStackNavigator();
 

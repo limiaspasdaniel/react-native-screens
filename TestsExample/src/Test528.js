@@ -6,7 +6,7 @@ import {
   Alert,
 } from 'react-native';
 import {NavigationContainer} from '@react-navigation/native';
-import {createNativeStackNavigator} from 'react-native-screens/native-stack';
+import {createNativeStackNavigator} from '@limiaspasdaniel/react-native-screens/native-stack';
 
 const CustomHeaderRight = () => {
   return (
