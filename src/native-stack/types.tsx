@@ -279,9 +279,7 @@ export type NativeStackNavigationOptions = {
   title?: string;
 };
 
-export type NativeStackNavigatorProps = DefaultNavigatorOptions<
-  NativeStackNavigationOptions
-> &
+export type NativeStackNavigatorProps = DefaultNavigatorOptions<NativeStackNavigationOptions> &
   StackRouterOptions &
   NativeStackNavigationConfig;
 
